@@ -4,13 +4,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
