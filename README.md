@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0020-valid-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
