@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
