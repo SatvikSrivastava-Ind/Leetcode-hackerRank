@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0342-power-of-four) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
