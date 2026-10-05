@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
