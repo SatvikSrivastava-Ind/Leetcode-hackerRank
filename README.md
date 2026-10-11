@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/SatvikSrivastava-Ind/Leetcode-hackerRank/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
